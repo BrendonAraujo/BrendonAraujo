@@ -1,5 +1,13 @@
-### Print("Olá, me chamo Brendon Araújo.");
+### print("Olá, me chamo Brendon Araújo.");
 
+<ul>
+  <li>🔍 Procurando opotunidades na área do Back-End;</li>
+  <li>📚 Estudando de tudo em pouco.;</li>
+  <li>👨‍🎓 Cursando Sistemas para Internet;</li>
+<ul/>
+  
+  <h2></h2>
+  
 <a href="https://github.com/BrendonAraujo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrendonAraujo&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=BrendonAraujo&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonAraujo&amp;layout=compact&amp;langs_count=7&amp;theme=dark" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonAraujo&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
