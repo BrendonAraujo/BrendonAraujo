@@ -29,7 +29,7 @@ Trabalho atualmente como desenvolver WEB princpialmente com linguagens como C# e
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![snake animation](https://github.com/BrendonAraujo/BrendonAraujo/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/BrendonAraujo/BrendonAraujo/blob/output/github-contribution-grid-snake.svg)
 
 <div align="left">
 
