@@ -23,8 +23,7 @@ Trabalho atualmente como desenvolver WEB princpialmente com linguagens como C# e
 <code><img width="40px" src="https://img.icons8.com/color/480w/microsoft-sql-server.png" title = "SQL SERVER"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title = "Jenkins"/></code>
           
-
-![Snake animation](https://github.com/BrendonAraujo/BrendonAraujo/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/BrendonAraujo/BrendonAraujo/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="left">
 
