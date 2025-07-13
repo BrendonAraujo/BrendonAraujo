@@ -37,7 +37,7 @@ Trabalho atualmente como desenvolver WEB princpialmente com linguagens como C# e
 
 <div align="left">
 
-<a href="[https://www.linkedin.com/in/brendon-ara%C3%BAjo/](https://www.linkedin.com/in/brendon-araújo)" target="_blank" rel="nofollow">
+<a href="https://www.linkedin.com/in/brendon-araújo" target="_blank" rel="nofollow">
 	<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 
