@@ -1,7 +1,10 @@
 <h1 align="left">Brendon Araújo</h1>
 
-Tenho 23 anos, nascido em Curitiba - Paraná mas morando atualmente em Penha - Santa Catarina. <br>
-Trabalho atualmente como desenvolver WEB princpialmente com linguagens como C# e Vue.
+EN - I'm a 23 year old i was born in Brazil. <br>
+I'm working as a web software developer and using mainly .NET C# and Angular
+
+PT - Tenho 23 anos, nascido em Curitiba - Paraná mas morando atualmente em Penha - Santa Catarina. <br>
+Trabalho atualmente como desenvolver WEB princpialmente com linguagens como C# e Angular.
 
 🤿 Voe Alto de forma leve 🎈
 
@@ -14,9 +17,12 @@ Trabalho atualmente como desenvolver WEB princpialmente com linguagens como C# e
 
 <h3>Tecnologicas e Ferramentas</h3>
 
-📚 Estudando e aprimorando conhecimentos no desenvolvimento de APIs Rest no ambiente .NET
+📚<br>
+EN -Studying every day tio be a better software developer on API Rest in a .NET enviroment<br>
+PT - Estudando e aprimorando conhecimentos no desenvolvimento de APIs Rest no ambiente .NET
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title = "Angular"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title = "VUE"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JS"/></code>
 <code><img width="40px" src="https://www.svgrepo.com/show/361181/github.svg" title = "GITHUB"/></code>
